@@ -8,19 +8,11 @@ isDraft: false
 ---
 # T﻿o jest jakiś zwykły tekst
 
-
-
-###### A﻿ to jest drugi tekst tylko małym headingiem 
-
-
-
-
-
-
+###### A﻿ to jest drugi tekst tylko małym headingiem
 
 x﻿D
 
-
+![xDDD](/images/sde.png "Foto")
 
 1. a﻿sdasdasd
 2. 2﻿123
